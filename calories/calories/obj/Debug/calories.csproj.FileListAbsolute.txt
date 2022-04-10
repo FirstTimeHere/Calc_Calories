@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\calories\calories\bin\Debug\calories.exe.config
+C:\Users\Александр\source\repos\calories\calories\bin\Debug\calories.exe
+C:\Users\Александр\source\repos\calories\calories\bin\Debug\calories.pdb
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.calc.resources
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.Form1.resources
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.Properties.Resources.resources
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.exe
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.pdb
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.User_input_form.resources
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.PasswordForm.resources
+C:\Users\Александр\source\repos\calories\calories\obj\Debug\calories.Admin_form.resources
